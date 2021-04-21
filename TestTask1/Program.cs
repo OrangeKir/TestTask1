@@ -6,7 +6,7 @@ namespace TestTask1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Иди нахуй");
+            Console.WriteLine("Нет, не иди");
         }
     }
 }
